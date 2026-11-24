@@ -1,0 +1,22 @@
+@"
+# NASA dataset - do not upload
+CMAPSSData/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Environment variables
+.env
+"@ | Set-Content .gitignore
