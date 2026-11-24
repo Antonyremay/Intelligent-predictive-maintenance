@@ -20,3 +20,6 @@ venv/
 # Environment variables
 .env
 "@ | Set-Content .gitignore
+
+# Exclude project work tasks
+Intelligent Predictive Maintenance System --- Work Tasks.txt
