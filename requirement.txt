@@ -1,0 +1,6 @@
+# Data manipulation
+pandas
+numpy
+
+# Development environment
+jupyter
